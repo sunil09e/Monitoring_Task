@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from script 2"
+echo "updated using rebase"
