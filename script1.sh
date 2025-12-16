@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello from script 1"
+echo "updated from feature branch"
 
 
